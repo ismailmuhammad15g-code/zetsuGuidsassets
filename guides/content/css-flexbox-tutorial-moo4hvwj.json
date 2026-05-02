@@ -1,0 +1,6 @@
+{
+  "content": "Learn CSS Flexbox layout",
+  "markdown": "# CSS Flexbox Tutorial\n\nFlexbox makes it easy to design flexible responsive layouts.\n\n## Container Properties\n\n```css\n.container {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 1rem;\n}\n```\n\n## Item Properties\n\n```css\n.item {\n    flex: 1;\n    flex-grow: 1;\n    flex-shrink: 0;\n}\n```\n",
+  "html_content": "",
+  "css_content": ""
+}
