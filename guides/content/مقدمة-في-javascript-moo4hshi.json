@@ -1,6 +1,0 @@
-{
-  "content": "دليل شامل لتعلم JavaScript",
-  "markdown": "# مقدمة في JavaScript\n\nJavaScript هي لغة برمجة قوية ومرنة تستخدم لإنشاء مواقع تفاعلية.\n\n## المتغيرات\n\n```javascript\nlet name = \"أحمد\";\nconst age = 25;\nvar city = \"الرياض\";\n```\n\n## الدوال\n\n```javascript\nfunction greet(name) {\n    return \"مرحباً \" + name;\n}\n```\n\n## المصفوفات\n\n```javascript\nconst fruits = [\"تفاح\", \"موز\", \"برتقال\"];\nfruits.forEach(fruit => console.log(fruit));\n```\n",
-  "html_content": "",
-  "css_content": ""
-}

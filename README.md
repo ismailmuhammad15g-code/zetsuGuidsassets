@@ -1,2 +1,1 @@
-# zetsuGuidsassets
-all assets from zetsuQuids as components etc..
+# Zetsuquids Assets\n\nProduction Ready - Repo reset. All other files have been securely wiped.
