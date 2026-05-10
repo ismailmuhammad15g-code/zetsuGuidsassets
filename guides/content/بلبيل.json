@@ -1,0 +1,6 @@
+{
+  "content": "CommunityReviews.tsx [101ms]\n2026-05-09 15:58:48.556 [info] > git cat-file -s 2e3d0eaa7b586ed9bbecd9f90605608c3a1e12ff [113ms]\n2026-05-09 15:58:48.704 [info] > git show --textconv :src/components/CommunityReviews.tsx [139ms]\n2026-05-09 15:58:48.764 [info] > git pull --tags origin main [1855ms]\n2026-05-09 15:58:48.764 [info] fatal: Out of memory, malloc failed (tried to allocate 524288000 bytes)\nfatal: Could not read from remote repository.\n\nPlease make sure you have the correct access rights\nand the repository exists.\n2026-05-09 15:58:48.907 [info] > git config --get commit.template [135ms]\n2026-05-09 15:58:48.927 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) --ignore-case refs/heads/main refs/remotes/main [146ms]\n2026-05-09 15:58:49.091 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [149ms]\n2026-05-09 15:58:49.102 [info] > git status -z -uall [169ms]",
+  "markdown": "",
+  "html_content": "",
+  "css_content": ""
+}
