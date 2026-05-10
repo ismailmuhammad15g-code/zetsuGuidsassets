@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "title": "A new update is on the way!",
+      "description": "We are currently developing an AI Guide Reviewer designed to handle and review all guides comprehensively. Here is what to expect:\n\nFast Processing: Your guide will be reviewed in just 3 to 5 seconds, with immediate approval or cancellation based on policy compliance.\nIntelligent Review: The system will be smarter and more accurate, eliminating confusion and reducing errors.",
+      "date": "2026-05-10",
+      "tag": "feature",
+      "version": "2.1.1",
+      "id": "mozeo65kp0p429lnwwo"
+    },
+    {
       "title": "Comprehensive Review System Overhaul & Critical Data Fixes",
       "description": "Community Love Refinement: Transitioned to a premium Black & White aesthetic with a smart dynamic layout (Auto-Marquee for 6+ reviews).\nEnhanced Review Management: Added \"Edit My Review\" functionality and a robust user avatar system with smart fallback support for broken images.\nCritical Reliability Fix: Resolved a high-priority bug that caused guide submissions to fail silently, ensuring 100% data persistence to Supabase.\nSystem Stability: Fixed TypeScript build errors and optimized error handling to ensure seamless performance and deployments on Vercel.",
       "date": "2026-05-10",
@@ -17,5 +25,5 @@
       "id": "mopvnah39ma3qzsaghr"
     }
   ],
-  "updated_at": "2026-05-10T04:07:31.094Z"
+  "updated_at": "2026-05-10T06:42:24.680Z"
 }
