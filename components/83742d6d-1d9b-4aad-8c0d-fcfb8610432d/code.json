@@ -1,0 +1,6 @@
+{
+  "mode": "classic",
+  "html_code": "<button class=\"my-btn\">\n  Hover me\n</button>",
+  "css_code": ".my-btn {\n  padding: 12px 24px;\n  background: linear-gradient(45deg, #FF512F 0%, #F09819 100%);\n  border: none;\n  border-radius: 8px;\n  color: white;\n  font-weight: bold;\n  font-size: 16px;\n  cursor: pointer;\n  box-shadow: 0 4px 15px rgba(240, 152, 25, 0.4);\n  transition: all 0.3s ease;\n}\n\n.my-btn:hover {\n  transform: translateY(-2px) scale(1.05);\n  box-shadow: 0 8px 25px rgba(240, 152, 25, 0.6);\n}",
+  "js_code": "const btn = document.querySelector('.my-btn');\nbtn.addEventListener('click', () => {\n  btn.innerText = 'Clicked!';\n  setTimeout(() => btn.innerText = 'Hover me', 1000);\n});"
+}
