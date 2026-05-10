@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "title": "Comprehensive Review System Overhaul & Critical Data Fixes",
+      "description": "Community Love Refinement: Transitioned to a premium Black & White aesthetic with a smart dynamic layout (Auto-Marquee for 6+ reviews).\nEnhanced Review Management: Added \"Edit My Review\" functionality and a robust user avatar system with smart fallback support for broken images.\nCritical Reliability Fix: Resolved a high-priority bug that caused guide submissions to fail silently, ensuring 100% data persistence to Supabase.\nSystem Stability: Fixed TypeScript build errors and optimized error handling to ensure seamless performance and deployments on Vercel.",
+      "date": "2026-05-10",
+      "tag": "improvement",
+      "version": "2.1.0",
+      "id": "moz94z6dg88p93mow1i"
+    },
+    {
       "title": "New updates",
       "description": "a multiple updates",
       "date": "2026-05-03",
@@ -9,5 +17,5 @@
       "id": "mopvnah39ma3qzsaghr"
     }
   ],
-  "updated_at": "2026-05-03T14:39:55.335Z"
+  "updated_at": "2026-05-10T04:07:31.094Z"
 }
