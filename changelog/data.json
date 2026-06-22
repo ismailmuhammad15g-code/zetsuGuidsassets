@@ -1,12 +1,12 @@
 {
   "entries": [
     {
-      "title": "Temporary Development Pause & System Maintenance",
-      "description": "We are temporarily pausing new feature development while the website undergoes essential construction. Our team is restructuring the platform to ensure a smoother, faster, and more robust experience. Work will resume very soon. Thank you for your patience and ongoing support!",
+      "title": "ثاي",
+      "description": "برر",
       "date": "2026-06-22",
-      "tag": "announcement",
-      "version": "v1.1.0-under-construction",
-      "id": "mqp3b07t2jnc0d8bwzl"
+      "tag": "feature",
+      "version": "ر",
+      "id": "mqp3bp689nzo15zpwdc"
     },
     {
       "title": "A new update is on the way!",
@@ -33,5 +33,5 @@
       "id": "mopvnah39ma3qzsaghr"
     }
   ],
-  "updated_at": "2026-06-22T10:45:57.601Z"
+  "updated_at": "2026-06-22T10:46:29.936Z"
 }
