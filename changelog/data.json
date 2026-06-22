@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "title": "Temporary Development Pause & System Maintenance",
+      "description": "We are temporarily pausing new feature development while the website undergoes essential construction. Our team is restructuring the platform to ensure a smoother, faster, and more robust experience. Work will resume very soon. Thank you for your patience and ongoing support!",
+      "date": "2026-06-22",
+      "tag": "announcement",
+      "version": "v1.1.0-under-construction",
+      "id": "mqp3b07t2jnc0d8bwzl"
+    },
+    {
       "title": "A new update is on the way!",
       "description": "We are currently developing an AI Guide Reviewer designed to handle and review all guides comprehensively. Here is what to expect:\n\nFast Processing: Your guide will be reviewed in just 3 to 5 seconds, with immediate approval or cancellation based on policy compliance.\nIntelligent Review: The system will be smarter and more accurate, eliminating confusion and reducing errors.",
       "date": "2026-05-10",
@@ -25,5 +33,5 @@
       "id": "mopvnah39ma3qzsaghr"
     }
   ],
-  "updated_at": "2026-05-10T06:42:24.680Z"
+  "updated_at": "2026-06-22T10:45:57.601Z"
 }
