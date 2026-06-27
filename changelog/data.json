@@ -1,6 +1,14 @@
 {
   "entries": [
     {
+      "title": "We are holding Off updates",
+      "description": "We are sorry to say that we will close up service for now and we will continue developing this service soon, so we are sorry ",
+      "date": "2026-06-27",
+      "tag": "announcement",
+      "version": "1.0.3",
+      "id": "mqw0r58o0rdgzc3eca19"
+    },
+    {
       "title": "A new update is on the way!",
       "description": "We are currently developing an AI Guide Reviewer designed to handle and review all guides comprehensively. Here is what to expect:\n\nFast Processing: Your guide will be reviewed in just 3 to 5 seconds, with immediate approval or cancellation based on policy compliance.\nIntelligent Review: The system will be smarter and more accurate, eliminating confusion and reducing errors.",
       "date": "2026-05-10",
@@ -25,5 +33,5 @@
       "id": "mopvnah39ma3qzsaghr"
     }
   ],
-  "updated_at": "2026-06-22T21:00:18.535Z"
+  "updated_at": "2026-06-27T07:08:54.985Z"
 }
